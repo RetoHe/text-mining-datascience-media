@@ -108,4 +108,4 @@ twdi_blog["Quelle"] = "TDWI"
 twdi_blog["Autor"] = authors
 
 # Export CSV File
-twdi_blog.to_csv("../data/blogs/TDWIBlog.csv", index = False)
+twdi_blog.to_csv("../data/raw/blogs/TDWIBlog.csv", index = False)

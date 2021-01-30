@@ -116,4 +116,4 @@ statworx_blog["Quelle"] = "Statworx"
 statworx_blog["Autor"] = authors
 
 # Export CSV- File
-statworx_blog.to_csv("../data/blogs/Articles_StatworxBlog.csv", index = False)
+statworx_blog.to_csv("../data/raw/blogs/Articles_StatworxBlog.csv", index = False)

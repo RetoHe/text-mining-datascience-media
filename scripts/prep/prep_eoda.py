@@ -91,4 +91,4 @@ eodablog["Link"] = correct_links
 #eodablog["Autor"] = ""
 
 # Export CSV File
-eodablog.to_csv("../data/blogs/Articles_EODA-Blog", index = False, sep= ";")
+eodablog.to_csv("../data/raw/blogs/Articles_EODA-Blog", index = False, sep= ";")
